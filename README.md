@@ -14,7 +14,7 @@ care of multiple things at the same time.
 To build a steering wheel angle prediction system and simulate it on a video.
 
 # Data
-* We have collected the dataset called as `Autopilot-Tensorflow`
+* We have used the dataset called as `Autopilot-Tensorflow`
 * The dataset contains images of a front dash camera view of a driving car showing angle of a road and corresponding
 steering wheel angles.
 * The size of the dataset is 45,408 images.
